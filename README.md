@@ -4,11 +4,8 @@
 welcome !
 
 Name: Stacey Fame N. Nacion
-
 Section: 9 - Platinum
-
 Age: 14
 
-Expectations in Computer Science for this school year: To learn a lot and to have fun in the subject. 
-
-Motto: Stay focused & Trust the Process
+##Quarter 1
+- [Computational Thinking Exercise](./quarter1/ctskills9PlatinumNacion.md)
