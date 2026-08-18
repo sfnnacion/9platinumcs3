@@ -4,7 +4,9 @@
 welcome !
 
 Name: Stacey Fame N. Nacion
+
 Section: 9 - Platinum
+
 Age: 14
 
 ##Quarter 1
