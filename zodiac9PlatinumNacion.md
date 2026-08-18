@@ -6,6 +6,9 @@
 - Display an appropriate error message and stop the program if an invalid year is entered.
 - Determine the correct Chinese Zodiac Sign based on a 12-year repeating cycle.
 
+## OUTPUT
+![Output Screenshot](https://github.com/sfnnacion/9platinumcs3/blob/main/Screenshot%202026-08-18%20223555.png)
+
 ## SOURCE CODE 
 ```python
 def main():
@@ -42,6 +45,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-## OUTPUT
-![Output Screenshot](https://github.com/sfnnacion/9platinumcs3/blob/main/Screenshot%202026-08-18%20223555.png)
