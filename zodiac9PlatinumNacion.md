@@ -7,6 +7,7 @@
 - Determine the correct Chinese Zodiac Sign based on a 12-year repeating cycle.
 
 ## SOURCE CODE 
+```python
 def main():
     baseline_year = 1900
     zodiac = [
@@ -41,3 +42,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+## OUTPUT
+![Output Screenshot](https://github.com/sfnnacion/9platinumcs3/blob/main/Screenshot%202026-08-18%20223555.png)
