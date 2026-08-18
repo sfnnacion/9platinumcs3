@@ -11,3 +11,4 @@ Age: 14
 
 ##Quarter 1
 - [Computational Thinking Exercise](./quarter1/ctskills9PlatinumNacion.md)
+- [Chinese Zodiac Activity](zodiac9PlatinumNacion.md)
