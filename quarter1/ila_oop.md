@@ -1,3 +1,9 @@
+Name: Stacey Fame N. Nacion
+
+Section: 9 - Platinum
+
+Date: 08/20/26
+
 # ILA 3-1: Applying the Four Pillars of OOP
 
 ## Sari-Sari Store Inventory System
