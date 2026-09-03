@@ -2,6 +2,7 @@
 
 ## Computational Thinking Exercise: "Smart School Canteen Queue"
 Section: 9 - Platinum                                                   Score:
+
 C# / Name: Stacey Fame N. Nacion                                        Date: 08/15/26
 
 
