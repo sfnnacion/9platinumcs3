@@ -8,17 +8,26 @@ A song is a short piece of music that includes music, lyrics, and voice. It is c
 
 ## Properties
 | Property        | Data Type | Description                          |
-|  title          | string    | Title of the song                    |        
+
+|  title          | string    | Title of the song                    |
+
 |  artist         | string    | Name of the recording artist or band |
+
 | yearReleased    |  int      | The year the song was released       |
+
 | genre           | string    | The genre of the song                |
+
 |durationInSeconds| int       | The length of the song in seconds    |
 
 ## Methods
 |         Method            |         Description          |
+
 | play()                    | Play the music               |
+
 | pause()                   | Pause the song               |
+
 | replay()                  | Replay the song              |
+
 | fastForward(seconds: int) | Skip other parts of the song |
 
 ## Class Diagram
