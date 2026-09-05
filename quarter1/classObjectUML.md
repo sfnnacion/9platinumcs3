@@ -31,8 +31,7 @@ A song is a short piece of music that includes music, lyrics, and voice. It is c
 | fastForward(seconds: int) | Skip other parts of the song |
 
 ## Class Diagram
-<img width="1920" height="1080" alt="Comsci_OOPAct (1)" src="https://github.com/user-attachments/assets/feacba02-dceb-4555-9d7e-bd944433e7fe" />
-
+<img width="1920" height="1080" alt="Comsci_OOPAct (2)" src="https://github.com/user-attachments/assets/aa5dc767-3847-4fa5-a264-2fbd06a8c943" />
 
 ## Design Explanation
 
