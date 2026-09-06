@@ -8,7 +8,9 @@ A song is a short piece of music that includes music, lyrics, and voice. It is c
 
 ## Properties
 | Property        | Data Type | Description                          |
+
 |---|---|---|---|
+
 |  title          | string    | Title of the song                    |
 
 |  artist         | string    | Name of the recording artist or band |
