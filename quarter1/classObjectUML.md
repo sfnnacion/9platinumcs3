@@ -24,6 +24,8 @@ A song is a short piece of music that includes music, lyrics, and voice. It is c
 ## Methods
 |         Method            |         Description          |
 
+|---|---|---|---|
+
 | play()                    | Play the music               |
 
 | pause()                   | Pause the song               |
