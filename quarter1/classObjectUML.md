@@ -7,12 +7,13 @@ Song
 A song is a short piece of music that includes music, lyrics, and voice. It is considered a major form of art and is created from a blend of emotion, experiences, as well as cultural traditions.
 
 ## Properties
-| Property        | Data Type | Description                          |
-|  title          | string    | Title of the song                    |        
-|  artist         | string    | Name of the recording artist or band |
-| yearReleased    |  int      | The year the song was released       |
-| genre           | string    | The genre of the song                |
-|durationInSeconds| int       | The length of the song in seconds    |
+| Property | Data Type | Description |
+|---|---|---|
+|title|string|Title of the song|
+|artist|string|Name of the recording artist or band|
+|yearReleased|int|The year the song was released|
+|genre|string|The genre of the song|
+|durationInSeconds|int|The length of the song in seconds|
 
 ## Methods
 |MethodDescription          |
@@ -20,9 +21,15 @@ A song is a short piece of music that includes music, lyrics, and voice. It is c
 | pause()                   | Pause the song               |
 | replay()                  | Replay the song              |
 | fastForward(seconds: int) | Skip other parts of the song |
+| Method | Description |
+|---|---|
+|play()|Play the song|
+|pause()|Pause the song|
+|replay()|Replay the song|
+|fastForward(seconds: int)|Skip other parts of the song|
 
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+<img width="1920" height="1080" alt="Comsci_OOPAct (2)" src="https://github.com/user-attachments/assets/aa5dc767-3847-4fa5-a264-2fbd06a8c943" />
 
 ## Design Explanation
 
