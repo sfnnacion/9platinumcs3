@@ -16,4 +16,4 @@ Age: 14
 - [Chinese Zodiac Activity (Markdown File)](./quarter1/zodiac9PlatinumNacion.md)
 - [ILA 3-1: Applying the Four Pillars of OOP](./quarter1/ila_oop.md)
 - [OOPAct](./quarter1/classObjectUML.md)
-  
+- [OOPAct-PartII](./quarter1/classAttributesMethods.md)
