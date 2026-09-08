@@ -15,7 +15,7 @@ A song is a short piece of music that includes music, lyrics, and voice. It is c
 |durationInSeconds| int       | The length of the song in seconds    |
 
 ## Methods
-|         Method            |         Description          |
+|MethodDescription          |
 | play()                    | Play the music               |
 | pause()                   | Pause the song               |
 | replay()                  | Replay the song              |
