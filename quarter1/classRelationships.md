@@ -6,18 +6,22 @@
 
 ## Existing Class
 Class: Song
+
 Description: A song is a short piece of music that includes music, lyrics, and voice. It is considered a major form of art and is created from a blend of emotion, experiences, as well as cultural traditions
 
 ## New Related Class
 Class: VideoGame
+
 Description: Video games are games that involves interaction with a user interface or input device. 
 
 ## Association
 Relationship: VideoGame contains Song 
+
 Explanation: They are related to each other as songs are used as an audiovisual effect in a game. Songs are important in video games because it shapes player emotions and acts as an interactive storytelling tool. 
 
 ## Multiplicity
 Multiplicity: 1 : 0..*
+
 Explanation: It is a one-to-many (1:0..*) multiplicity because a single video game can have zero to multiple song objects for soundtracks, audio-visual effects, and other purposes. 
 
 ## UML Class Relationship Diagram
