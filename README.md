@@ -17,4 +17,5 @@ Age: 14
 - [ILA 3-1: Applying the Four Pillars of OOP](./quarter1/ila_oop.md)
 - [OOPAct](./quarter1/classObjectUML.md)
 - [OOPAct-PartII](./quarter1/classAttributesMethods.md)
-- [OOPAct-PartIII](./quarter1/classRelationships.md) 
+- [OOPAct-PartIII](./quarter1/classRelationships.md)
+- [OOPAct-PartIV](./quarter1/advancedRelationships.md) 
