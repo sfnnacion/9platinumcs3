@@ -32,6 +32,6 @@ print(f"Account Number: {a1.get_account_number()}")
 print(f"Balance: {a1.get_balance():.2f}")
 
 print("\nUpdate balance to -100")
-a1.set_balance(-100_ #test warning message for negative balance
+a1.set_balance(-100) #test warning message for negative balance
 print(f"Account Number: {a1.get_account_number()}")
 print(f"Balance: {a1.get_balance():.2f}") #2f for formatting the balance to 2 decimal places
