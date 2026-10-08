@@ -1,27 +1,27 @@
-class BankAccount: #create a class named BankAccount
+class BankAccount:#Create a class called BankAccount
     def __init__(self, account_number: int, balance: float): 
-        self.account_number = account_number
-        self.balance = 0 
-        self.set_balance(balance) 
-        self.set_account_number(account_number) 
+        self._account_number = account_number
+        self._balance = 0  
+        self.set_account_number(account_number)
+        self.set_balance(balance)
 
     #Setter method to update the account number
     def set_account_number(self, account_number: int): 
-        self.account_number = account_number
+        self._account_number = account_number
 
     #Setter method to update the balance
     def set_balance(self, balance: float):
         if balance < 0: 
             print("The balance must not be a negative number.")
-            #for it to print a warning message for the negative number which isn't applicable for a bank account balance
+            # for it to print a warning message for the negative number which isn't applicable
         else:
-            self.balance = balance
+            self._balance = balance
 
     # getter method for account number
     def get_account_number(self):
         return self._account_number
 
-    #getter method for balance
+    # getter method for balance
     def get_balance(self):
         return self._balance
 
@@ -32,6 +32,6 @@ print(f"Account Number: {a1.get_account_number()}")
 print(f"Balance: {a1.get_balance():.2f}")
 
 print("\nUpdate balance to -100")
-a1.set_balance(-100) #test warning message for negative balance
+a1.set_balance(-100)  #test warning message for negative balance
 print(f"Account Number: {a1.get_account_number()}")
 print(f"Balance: {a1.get_balance():.2f}") #2f for formatting the balance to 2 decimal places
