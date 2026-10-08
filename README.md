@@ -19,3 +19,7 @@ Age: 14
 - [OOPAct-PartII](./quarter1/classAttributesMethods.md)
 - [OOPAct-PartIII](./quarter1/classRelationships.md)
 - [OOPAct-PartIV](./quarter1/advancedRelationships.md) 
+
+## Quarter 2 Activities
+- [Study Guide 8 Activity](./quarter2/sg8_encapsulation.py)
+  
