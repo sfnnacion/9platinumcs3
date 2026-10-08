@@ -29,12 +29,14 @@ class BankAccount: #create a class named BankAccount
 
     def get_balance(self):
         return self.balance
-    
-bank_account = BankAccount(12345, 1000.0)
-print(f"Account Number: {bank_account.account_number}")
-print(f"Balance: {bank_account.balance}")
 
-bank_account.set_account_number(46348)
-bank_account.set_balance(-2000.0)
+# Testing the class
+a1 = BankAccount(12345, 1000)
+print("Account 1")
+print("Account Number:", a1.get_account_number())
+print("Balance:", a1.get_balance())
 
-print(f"Update balance to {bank_account.balance}")
+a2 = BankAccount(67890, -500)  # This will trigger the validation for negative balance and will show the warning
+print("\nAccount 2")
+print("Account Number:", a2.get_account_number())
+print("Balance:", a2.get_balance())  
