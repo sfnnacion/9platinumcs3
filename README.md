@@ -22,4 +22,5 @@ Age: 14
 
 ## Quarter 2 Activities
 - [Study Guide 8 Activity](./quarter2/sg8_encapsulation.py)
+- [Study Guide 9 Activity](./quarter2/sg9_inheritance.py)
   
