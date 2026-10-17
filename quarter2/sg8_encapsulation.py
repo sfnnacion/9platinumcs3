@@ -35,5 +35,3 @@ print("\nUpdate balance to -100") # print a message to indicate that the balance
 a1.set_balance(-100)  #test warning message for negative balance
 print(f"Account Number: {a1.get_account_number()}") # print the account number using the getter method to retrieve the account number attribute
 print(f"Balance: {a1.get_balance():.2f}") # print the balance using the getter method to retrieve the balance attribute. (Additional note: 2f is for formatting the balance to 2 decimal places.) for negative balance
-print(f"Account Number: {a1.get_account_number()}")
-print(f"Balance: {a1.get_balance():.2f}") #2f for formatting the balance to 2 decimal places
