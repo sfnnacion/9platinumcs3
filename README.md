@@ -25,4 +25,4 @@ Age: 14
 - [Study Guide 9 Activity](./quarter2/sg9_inheritance.py)
 - [Study Guide 10 Activity](./quarter2/sg10_MethodOverriding.py)
 - [Study Guide 11 Activity (Activity 1)](./quarter2/sg11_polymorphism.py)
-- [Study Guide 11 Activity (Activity 2)](./quarter2/sg11_polymorphism2.md)
+- [Study Guide 11 Activity (Activity 2)](./quarter2/sg11_polymorphism2.py)
